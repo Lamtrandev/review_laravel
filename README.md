@@ -12,3 +12,12 @@ Các bước thực hiện
           ++ Nhập thông tin admin
           ++ Vào cd review_laravel chạy lệnh php artisan tinker tạo ra mộ trường php chạy lệnh echo brcypte('mật khẩu');
           ++ Lấy shortcode nhập vào trường password
+- Bước 2: Tạo giao diện đăng nhập admin
+       + tạo Logincontroller
+       + tạo Route giao điện đăng nhập
+       + Cắt playout login
+         ++ tạo view quản lý admin chứa các giao diện đăng nhập
+         ++ Copy source cho giao diện đăng nhập
+         ++ Cắt lauout ra nhiều phần để dễ quản lý
+         ++ Vào public tạo template tạo admin để quản lý các file assets 
+         ++ Thay đổi dường dẫn img js css trong layout login
