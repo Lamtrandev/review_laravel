@@ -43,12 +43,16 @@ Bước 4: Cài đặt giao diện Admin (dashboard)
                 + Vào Migration Menu để thêm thuộc tính các trường
                 + Chạy Lệnh migrate tạo table menus
         - Tạo Route nhóm các chức năng menu
-                + Tạo Route menu mới
-                + Sửa Route menu mới
-                + Xóa Route menu mới
+                + Route tạo menu mới
+                + Route hiển Thị menu
+                + Route sửa menu mới
+                + Route xóa menu mới
         - Tạo Menucontroller
                 + CRUD (Thêm Đọc Sửa Xóa)
-        - 
+        - Cắt Layout Menu
+                + Thêm Layout
+                + Sửa Layout
+                + Read Layout
 
          
          
