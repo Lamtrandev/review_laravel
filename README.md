@@ -35,7 +35,21 @@ Bước 4: Cài đặt giao diện Admin (dashboard)
                 + Tạo Layout dashboard gọi Layout main
                 + Code content cho Layout dashboard
  Bước 5: Tạo Menu dashboard
-        
+        - Tạo các mục thành phần mới trên menu dựa trên các mẫu hiện tại
+        - Xóa các mục thành phần không cần thiết
+        - Thay đổi đường dẫn trên các mục mới
+        - Tạo model, migration
+        - Tạo table menus
+                + Vào Migration Menu để thêm thuộc tính các trường
+                + Chạy Lệnh migrate tạo table menus
+        - Tạo Route nhóm các chức năng menu
+                + Tạo Route menu mới
+                + Sửa Route menu mới
+                + Xóa Route menu mới
+        - Tạo Menucontroller
+                + CRUD (Thêm Đọc Sửa Xóa)
+        - 
+
          
          
          
