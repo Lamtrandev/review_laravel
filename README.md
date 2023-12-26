@@ -53,6 +53,9 @@ Bước 4: Cài đặt giao diện Admin (dashboard)
                 + Thêm Layout
                 + Sửa Layout
                 + Read Layout
+        - Ngoài rà còn có một số chức năng sử đụng jquery như:
+                + Tìm kiếm
+                + Sắp Xếp
 
          
          
