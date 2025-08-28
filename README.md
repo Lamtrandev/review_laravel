@@ -1,5 +1,4 @@
-# review_laravel
-Ôn tập làm lại một website laravel
+| DỰ ÁN LARAVEL BẮT ĐẦU |
 Các bước thực hiện 
 Bước 1: Tạo môi trường hoat động cho laravel
         - Cài đặt composer
