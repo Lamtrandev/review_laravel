@@ -1,7 +1,7 @@
 # review_laravel
 Ôn tập làm lại một website laravel
 Các bước thực hiện 
-Bước 1: tạo môi trường hoat động cho laravel
+Bước 1: Tạo môi trường hoat động cho laravel
         - Cài đặt composer
         - Cài đặt xampp/wampserver/...
         - Tạo database trong phpmyadmin và liện kết database với source laravel
